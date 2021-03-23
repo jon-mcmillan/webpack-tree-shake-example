@@ -1,0 +1,1 @@
+(()=>{var r={269:r=>{"use strict";r.exports=JSON.parse('{"partner-a":{"message":"i am partner a"},"partner-b":{"message":"I should not be in the build"}}')}},e={};function t(s){var a=e[s];if(void 0!==a)return a.exports;var o=e[s]={exports:{}};return r[s](o,o.exports,t),o.exports}(()=>{const r=t(269)["partner-a"];console.log(r)})()})();

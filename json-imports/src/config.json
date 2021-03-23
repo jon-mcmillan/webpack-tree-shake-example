@@ -1,0 +1,8 @@
+{
+  "partner-a": {
+    "message": "i am partner a"
+  },
+  "partner-b": {
+    "message": "I should not be in the build"
+  }
+}

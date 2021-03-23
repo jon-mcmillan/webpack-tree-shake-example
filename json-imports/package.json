@@ -1,0 +1,17 @@
+{
+  "name": "json-imports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.27.2",
+    "webpack-cli": "^4.5.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
